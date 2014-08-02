@@ -12,7 +12,7 @@ var Hapi = require('hapi');
 
 var server = new Hapi.Server('localhost', 3000, {
 	views: {
-		path: './public/views',
+		path: './views',
 		engines: {
 			html: require('hapi-gaikan-view')
 		}
