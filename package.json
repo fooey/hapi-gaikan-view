@@ -1,0 +1,26 @@
+{
+  "name": "hapi-gaikan-view",
+  "version": "0.0.0",
+  "description": "Gaikan.js for Hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fooey/hapi-gaikan-view.git"
+  },
+  "keywords": [
+    "gaikan",
+    "hapi"
+  ],
+  "author": "Jason Rushton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fooey/hapi-gaikan-view/issues"
+  },
+  "homepage": "https://github.com/fooey/hapi-gaikan-view",
+  "dependencies": {
+    "gaikan": "^2.0.2"
+  }
+}
